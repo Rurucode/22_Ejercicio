@@ -1,0 +1,26 @@
+{
+  "name": "22_Ejercicio",
+  "version": "1.0.0",
+  "description": "Ejercicio - Templates con Node.js + Express:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rurucode/22_Ejercicio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rurucode/22_Ejercicio/issues"
+  },
+  "homepage": "https://github.com/Rurucode/22_Ejercicio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}
